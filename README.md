@@ -28,12 +28,12 @@ The **OpenWakeWord Installer** integration for Home Assistant allows you to easi
     - Open HACS in your Home Assistant instance.
     - Go to **Integrations**.
     - Click on the three dots in the top right corner and select **Custom repositories**.
-    - Add the following URL to the repository field: `https://github.com/your-repo/openwakeword` and select **Integration** as the category.
+    - Add the following URL to the repository field: `https://github.com/fwartner/ha-openwakeword-installer` and select **Integration** as the category.
     - Click **Add**.
 
 3. **Install the Integration**
 
-    - Search for **OpenWakeWord** in the HACS Integrations section.
+    - Search for **WakeWord Installer** in the HACS Integrations section.
     - Click **Install**.
 
 4. **Restart Home Assistant**
@@ -43,7 +43,7 @@ The **OpenWakeWord Installer** integration for Home Assistant allows you to easi
 5. **Configure the Integration**
 
     - Go to **Configuration** -> **Integrations**.
-    - Click on the "+" button and search for "OpenWakeWord".
+    - Click on the "+" button and search for "WakeWord Installer".
     - Follow the setup instructions to configure the repository URL and optional folder path.
 
 ### Manual Installation
@@ -82,7 +82,7 @@ The **OpenWakeWord Installer** integration for Home Assistant allows you to easi
 4. **Configure the Integration**
 
     - Go to **Configuration** -> **Integrations**.
-    - Click on the "+" button and search for "OpenWakeWord".
+    - Click on the "+" button and search for "WakeWord Installer".
     - Follow the setup instructions to configure the repository URL and optional folder path.
 
 ## Configuration
